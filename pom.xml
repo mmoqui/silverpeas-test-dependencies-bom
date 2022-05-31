@@ -30,7 +30,7 @@
 
   <groupId>org.silverpeas</groupId>
   <artifactId>silverpeas-test-dependencies-bom</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5-wildfly26</version>
   <packaging>pom</packaging>
   <name>Silverpeas Test Dependencies BOM</name>
   <description>A BOM with all the dependencies required to build and run the unit and the integration tests of Silverpeas</description>
@@ -310,7 +310,7 @@
     <mokito.version>4.2.0</mokito.version>
     <weld-junit.version>2.0.2.Final</weld-junit.version>
     <dbsetup.version>2.1.0</dbsetup.version>
-    <resteasy.version>3.15.3.Final</resteasy.version>
+    <resteasy.version>4.7.6.Final</resteasy.version>
     <arquillian.version>1.6.0.Final</arquillian.version>
     <arquillian.wildfly.version>3.0.1.Final</arquillian.wildfly.version>
   </properties>
